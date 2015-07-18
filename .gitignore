@@ -1,0 +1,7 @@
+$ cat .gitignore
+*.[oa]
+*~
+iar/_build
+iar/settings
+*.dep
+*.ewt
